@@ -1,5 +1,6 @@
 # project_3
 GA MEAN stack proj
 
-Creators: 
+Creators:
 Rachel Chhay
+Sarah Anderson
